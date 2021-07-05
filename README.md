@@ -6,6 +6,6 @@ I am a PhD student in Computer Science at National University of Singapore.
 
 </td><td align="top" width="45%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1989Ryan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1989Ryan&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>
