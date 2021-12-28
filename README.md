@@ -1,4 +1,4 @@
-I am a PhD student in Computer Science at National University of Singapore.
+I am a PhD candidate in Computer Science at National University of Singapore.
 
 <table><tr><td align="center" width="55%">
 
